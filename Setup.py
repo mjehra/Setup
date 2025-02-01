@@ -2,7 +2,6 @@ import requests
 import os
 from cfonts import render          
 import webbrowser
-webbrowser.open ('https://t.me/GODTEST')
   
       
 kral = render('PAGE [1]', colors=['cyan', 'white'], align='center')
