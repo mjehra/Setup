@@ -11,11 +11,6 @@ print(kral)
 print("PROGRAMMER @MYEHRA |  Channel:  @GODTEST ")
 print("\x1b[1;39m—" * 60)
 
-
-
-
-
-
 print(f"""\x1b[38;5;117m  1\x1b[38;5;231m - INSTAGRAM [GMAIL]  \x1b[1;32m 
 \x1b[38;5;117m◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙◙
  2\x1b[38;5;231m - INSTAGRAM [G+H] \x1b[1;32m\x1b[1;32m 
